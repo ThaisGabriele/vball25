@@ -1,0 +1,529 @@
+No.,Player,Position,Team
+1.0,Bertels,OH,BEL
+2.0,Van Sas,S,BEL
+3.0,Herbots,OH,BEL
+4.0,Lemmens,MB,BEL
+5.0,Radovic,OH,BEL
+6.0,Gilson,OH,BEL
+7.0,Koulberg,MB,BEL
+8.0,Nagels,S,BEL
+9.0,Demeyer,OH,BEL
+10.0,Martin,O,BEL
+11.0,Waelkens,MB,BEL
+12.0,Krenicky,S,BEL
+13.0,Janssens,MB,BEL
+15.0,Humblet,MB,BEL
+16.0,Debouck,L,BEL
+17.0,Cos,OH,BEL
+18.0,Rampelberg,L,BEL
+19.0,Van Avermaet,MB,BEL
+20.0,Fransen,MB,BEL
+21.0,Stragier,OH,BEL
+22.0,Verhelst,O,BEL
+23.0,Wouters,MB,BEL
+24.0,Strumilo,OH,BEL
+25.0,Van Elsen,OH,BEL
+27.0,Engels,S,BEL
+28.0,Vlahovic,O,BEL
+29.0,Luyten,OH,BEL
+30.0,Debout,L,BEL
+31.0,Hauben,MB,BEL
+32.0,Maes,MB,BEL
+1.0,Lanna,MB,BRA
+2.0,Diana,MB,BRA
+3.0,Macris,S,BRA
+4.0,Lorena,MB,BRA
+5.0,Aline,OH,BRA
+6.0,Karol,OH,BRA
+7.0,Rosamaria,O,BRA
+8.0,Julia,MB,BRA
+9.0,Roberta,S,BRA
+10.0,Gabi,OH,BRA
+11.0,Luzia,MB,BRA
+12.0,Ana Cristina,OH,BRA
+13.0,Paulina,L,BRA
+14.0,Kika,L,BRA
+15.0,Helena,OH,BRA
+16.0,Kisy,O,BRA
+17.0,Bergmann,OH,BRA
+18.0,Jheovana,O,BRA
+19.0,Tainara,O,BRA
+20.0,Giovana,S,BRA
+21.0,Ariane,O,BRA
+22.0,Lais,L,BRA
+23.0,Sabrina,O,BRA
+24.0,Kenya,S,BRA
+25.0,Marina,S,BRA
+26.0,Vivian,S,BRA
+27.0,Valquiria,MB,BRA
+28.0,Mayhara,MB,BRA
+29.0,Lyara,S,BRA
+30.0,Marcelle,L,BRA
+1.0,Stanchulova,OH,BUL
+2.0,Dimitrova N.,MB,BUL
+3.0,Slavcheva,S,BUL
+4.0,Krivoshiyska,MB,BUL
+5.0,Yordanova,OH,BUL
+6.0,Guncheva,S,BUL
+7.0,Kitipova,S,BUL
+8.0,Georgieva,OH,BUL
+10.0,Paskova,OH,BUL
+11.0,Vuchkova,MB,BUL
+13.0,Pashkuleva,L,BUL
+14.0,B. Saykova,MB,BUL
+15.0,Todorova,L,BUL
+16.0,Atanasijević,OH,BUL
+17.0,Marinova,O,BUL
+18.0,Naneva,MB,BUL
+19.0,Milanova A.,OH,BUL
+20.0,Dudova,O,BUL
+21.0,Karabasheva,L,BUL
+23.0,Stoyanova,O,BUL
+25.0,Ivanova,OH,BUL
+27.0,A. Saykova,MB,BUL
+28.0,Nikolova M.,O,BUL
+29.0,Guncheva,S,BUL
+30.0,Todorova M.,MB,BUL
+31.0,Racheva,OH,BUL
+32.0,Veneva,OH,BUL
+33.0,Nikolova,MB,BUL
+34.0,Ivanova,S,BUL
+35.0,Ninova,L,BUL
+1.0,Georgiadis,L,CAN
+2.0,Watson,OH,CAN
+3.0,Van Ryk,O,CAN
+4.0,Savard,OH,CAN
+5.0,Murmann,L,CAN
+6.0,White,MB,CAN
+7.0,Van Buskirk,MB,CAN
+11.0,Mitrovic,OH,CAN
+12.0,Chase,MB,CAN
+13.0,Brie,S,CAN
+14.0,Johnson,OH,CAN
+15.0,Joseph,O,CAN
+16.0,Guezen,OH,CAN
+17.0,Jost,L,CAN
+18.0,Smrek,O,CAN
+19.0,Maglio,MB,CAN
+20.0,Borowski,O,CAN
+21.0,de Boer,OH,CAN
+22.0,Allard,S,CAN
+23.0,Boyd,MB,CAN
+25.0,Grills,O,CAN
+26.0,Pelland,S,CAN
+27.0,Thokbuom,MB,CAN
+28.0,Surinx,OH,CAN
+30.0,Saris,OH,CAN
+32.0,Fayad,OH,CAN
+34.0,Attieh,OH,CAN
+35.0,Noble,S,CAN
+37.0,Andrews,MB,CAN
+41.0,Attieh,OH,CAN
+1.0,Wu M.J.,OH,CHN
+2.0,Zhuang Y.S.,OH,CHN
+3.0,Tang X.,OH,CHN
+4.0,Zou J.Q.,S,CHN
+5.0,Yin X. L.,S,CHN
+6.0,Gong X.Y.,O,CHN
+7.0,Wang Y.Y.,MB,CHN
+8.0,Wan Z. Y.,MB,CHN
+9.0,Shan L. Q.,MB,CHN
+10.0,Yang S.M.,O,CHN
+11.0,Fan B. N.,O,CHN
+12.0,Li Y.Y.,OH,CHN
+13.0,Dong Y. H.,OH,CHN
+14.0,Huang Y.X.,OH,CHN
+15.0,Chen H. Y.,MB,CHN
+16.0,Wang A. Q.,MB,CHN
+17.0,Ni F.F.,L,CHN
+18.0,Wang M.J.,L,CHN
+19.0,Zheng X. Y.,L,CHN
+20.0,Zhong H.,OH,CHN
+21.0,Gao Y.,MB,CHN
+22.0,Zhou Y.T.,O,CHN
+23.0,Zhang Z.X.,S,CHN
+24.0,Xu X.T.,S,CHN
+1.0,Kneiflova,MB,CZE
+2.0,Hodanova,O,CZE
+3.0,Jedlickova,MB,CZE
+4.0,Pavlova,MB,CZE
+5.0,Svobodova,OH,CZE
+6.0,Grozer,OH,CZE
+7.0,Bukovska,OH,CZE
+8.0,Koulisiani,MB,CZE
+9.0,Digrinova,L,CZE
+10.0,Valkova,S,CZE
+11.0,Dostalova,L,CZE
+12.0,Janska,MB,CZE
+13.0,Pavlikova,OH,CZE
+14.0,Kolarova,OH,CZE
+15.0,Jehlarova,MB,CZE
+16.0,Mlejnkova,OH,CZE
+17.0,Dite,OH,CZE
+18.0,Smolkova,OH,CZE
+19.0,Pelikanova,S,CZE
+20.0,Grabovska,S,CZE
+21.0,Formankova,O,CZE
+22.0,Orvosova,O,CZE
+23.0,Pragerova,S,CZE
+24.0,Semanova,O,CZE
+25.0,Brancuska,O,CZE
+26.0,Blazkova,MB,CZE
+27.0,Chaloupkova,L,CZE
+28.0,Rejmanova,OH,CZE
+29.0,Fixova,O,CZE
+1.0,Arias,MB,DOM
+2.0,Y. Rodriguez,L,DOM
+3.0,Terrero,MB,DOM
+4.0,Peralta,OH,DOM
+5.0,Castillo,L,DOM
+6.0,A. Rodriguez,S,DOM
+7.0,Marte,S,DOM
+8.0,Tapia,O,DOM
+9.0,Hinojosa,MB,DOM
+10.0,Heredia,OH,DOM
+11.0,Gonzalez,MB,DOM
+12.0,Perez,S,DOM
+13.0,Matos,OH,DOM
+14.0,Felix,O,DOM
+15.0,Guillen,OH,DOM
+16.0,Peña Isabel,OH,DOM
+17.0,Liberato,S,DOM
+18.0,De la Rosa,S,DOM
+19.0,Puente,MB,DOM
+20.0,B. Martinez,OH,DOM
+21.0,J. Martinez,MB,DOM
+22.0,Caraballo,OH,DOM
+23.0,Gaila,O,DOM
+24.0,Natalia,OH,DOM
+25.0,L. Martinez,L,DOM
+26.0,Iliana,L,DOM
+1.0,Cazaute,OH,FRA
+2.0,Chouikh-Barbez,OH,FRA
+3.0,Giardino,L,FRA
+4.0,Blanc,S,FRA
+6.0,Pezelj,OH,FRA
+7.0,Ndiaye,O,FRA
+9.0,Stojiljkovic,S,FRA
+10.0,Fanguedou,MB,FRA
+11.0,Gicquel,O,FRA
+12.0,Depie,O,FRA
+13.0,Diouf,OH,FRA
+15.0,Sylves,MB,FRA
+18.0,Mathi,S,FRA
+21.0,Elouga,MB,FRA
+35.0,Danard Selosse,S,FRA
+41.0,Andriamaherizo,MB,FRA
+49.0,Foucher,O,FRA
+53.0,Schalk,OH,FRA
+54.0,Ebatombo,O,FRA
+57.0,Mayer,MB,FRA
+63.0,Respaut,S,FRA
+68.0,Jaegy,L,FRA
+75.0,Biemel,L,FRA
+78.0,Massuel,MB,FRA
+83.0,Girgenti,O,FRA
+88.0,Rotar,O,FRA
+91.0,Bah,OH,FRA
+92.0,Ngolongolo,MB,FRA
+98.0,Haewegene,OH,FRA
+99.0,Gelin,L,FRA
+1.0,Agbortabi,OH,GER
+2.0,Kästner,S,GER
+3.0,Cesar,L,GER
+4.0,Pogany,L,GER
+5.0,Glaab,S,GER
+6.0,Stautz,OH,GER
+7.0,Tabacuks,OH,GER
+8.0,Kohn,S,GER
+9.0,Alsmeier,OH,GER
+10.0,Stigrot,OH,GER
+11.0,Timmer,OH,GER
+12.0,Orthmann,OH,GER
+13.0,Weske,O,GER
+14.0,Schölzel,MB,GER
+15.0,Jatzko,OH,GER
+16.0,Cekulaev,MB,GER
+17.0,Kirchhoff,O,GER
+18.0,Grozer,OH,GER
+19.0,Hänle,O,GER
+20.0,Kindermann,O,GER
+21.0,Weitzel,MB,GER
+22.0,Strubbe,MB,GER
+23.0,Straube,S,GER
+24.0,Nestler,L,GER
+25.0,Jebens,O,GER
+26.0,Jordan,S,GER
+30.0,Kömmling,OH,GER
+35.0,Van Clewe,MB,GER
+36.0,Ambrosius,MB,GER
+37.0,Schaefer,L,GER
+1.0,Gray,MB,ITA
+2.0,Degradi,OH,ITA
+3.0,Cambi,S,ITA
+4.0,Piva,OH,ITA
+5.0,Squarcini,MB,ITA
+6.0,De Gennaro,L,ITA
+7.0,Fersino,L,ITA
+8.0,Orro,S,ITA
+9.0,Boldini,S,ITA
+10.0,Sartori,MB,ITA
+11.0,Danesi,MB,ITA
+12.0,Frosini,O,ITA
+14.0,Nwakalor L.,MB,ITA
+15.0,Panetoni,L,ITA
+16.0,Nervini,OH,ITA
+17.0,Sylla,OH,ITA
+18.0,Egonu,O,ITA
+19.0,Fahr,MB,ITA
+20.0,Eze,S,ITA
+21.0,Omoruyi,OH,ITA
+22.0,Giovannini,OH,ITA
+23.0,Moro,L,ITA
+24.0,Antropova,O,ITA
+26.0,Armini,L,ITA
+29.0,Nardo,OH,ITA
+31.0,Tanase,OH,ITA
+32.0,Malual,O,ITA
+34.0,Morello,S,ITA
+35.0,Munarini,MB,ITA
+37.0,Adigwe,O,ITA
+1.0,Iwasaki,S,JPN
+2.0,Araki,MB,JPN
+3.0,Shimamura,MB,JPN
+4.0,Ishikawa,OH,JPN
+5.0,Osanai,OH,JPN
+6.0,Seki,S,JPN
+7.0,Tamaki,S,JPN
+8.0,Kojima,L,JPN
+10.0,Kurogo,OH,JPN
+11.0,Yamada,MB,JPN
+12.0,Fukudome,L,JPN
+13.0,Wada,O,JPN
+14.0,Hawi,OH,JPN
+15.0,Airi,MB,JPN
+16.0,Asuka,MB,JPN
+17.0,Yamaguchi,MB,JPN
+18.0,Shiode,S,JPN
+19.0,Iwasawa,OH,JPN
+20.0,Yamanaka,MB,JPN
+21.0,Nishimura,L,JPN
+22.0,Tsukasa,S,JPN
+23.0,Kawabata,L,JPN
+24.0,Nonaka,OH,JPN
+26.0,Yoshino,OH,JPN
+27.0,Asano,MB,JPN
+28.0,Fukazawa,OH,JPN
+30.0,Kitamado,OH,JPN
+33.0,Akimoto,OH,JPN
+34.0,Kawamata,OH,JPN
+35.0,Nishizaki,L,JPN
+1.0,Daeun,O,KOR
+2.0,Juah,MB,KOR
+3.0,Dain,S,KOR
+4.0,Dahye,L,KOR
+5.0,Jua,OH,KOR
+6.0,Goeun,S,KOR
+7.0,Daeun,S,KOR
+8.0,Yeongyeon,L,KOR
+9.0,Hyunsoo,O,KOR
+10.0,Sarang,S,KOR
+11.0,Seoyoung,OH,KOR
+12.0,Dahyeon,MB,KOR
+13.0,Sebeen,MB,KOR
+14.0,Yunju,OH,KOR
+15.0,Seonwoo,O,KOR
+16.0,Jiyun J.,OH,KOR
+17.0,Hoyoung,MB,KOR
+18.0,Minji,OH,KOR
+19.0,Hanbi,OH,KOR
+20.0,Garam,L,KOR
+21.0,Jiwon,S,KOR
+22.0,Jungwon,L,KOR
+23.0,Eunji,O,KOR
+24.0,Chaewon,L,KOR
+25.0,Eunseo,O,KOR
+26.0,Eunjin,MB,KOR
+33.0,Jeongmin,MB,KOR
+47.0,Sujin,L,KOR
+71.0,Jiyun M.,O,KOR
+97.0,Sohwi,OH,KOR
+2.0,Ten Brinke,MB,NED
+3.0,H. Jasper,L,NED
+4.0,Plak,O,NED
+5.0,Knollema,OH,NED
+8.0,Gerritsen,MB,NED
+9.0,Molenaar,L,NED
+10.0,Van Aalen,S,NED
+11.0,Lyklema,S,NED
+12.0,Bongaerts,S,NED
+13.0,Van De Vosse,O,NED
+16.0,Baijens,MB,NED
+17.0,Vos,OH,NED
+18.0,M. Jasper,OH,NED
+19.0,Daalderop,OH,NED
+20.0,Kok,OH,NED
+21.0,Stuut,MB,NED
+22.0,Konijnenberg,S,NED
+23.0,Timmerman,MB,NED
+24.0,Schut,OH,NED
+25.0,Reesink,L,NED
+26.0,Dambrink,O,NED
+27.0,Jelsma,O,NED
+28.0,Kuipers,OH,NED
+29.0,Wessels,MB,NED
+30.0,Jansen,OH,NED
+32.0,Zander,S,NED
+33.0,Hamming,L,NED
+34.0,Geerdes,O,NED
+35.0,Wiegerinck,MB,NED
+36.0,P. Kok,OH,NED
+1.0,Gryka,MB,POL
+2.0,Nowicka,S,POL
+3.0,Stysiak,O,POL
+4.0,Kowalewska,S,POL
+5.0,Korneluk,MB,POL
+6.0,Obiała,MB,POL
+7.0,Drużkowska,OH,POL
+8.0,Piasecka,OH,POL
+9.0,Murek,OH,POL
+11.0,Łukasik,OH,POL
+12.0,Szczygłowska,L,POL
+13.0,Pierzchała,MB,POL
+14.0,Szczurowska,O,POL
+15.0,Czyrniańska,OH,POL
+16.0,Stefanik,MB,POL
+17.0,Smarzek,O,POL
+18.0,Łysiak,L,POL
+19.0,Centka-Tietianiec,MB,POL
+21.0,Grabka,S,POL
+22.0,Orzoł,OH,POL
+23.0,Adamek,L,POL
+24.0,Damaske,OH,POL
+25.0,Łyduch,L,POL
+26.0,Wenerska,S,POL
+30.0,Różański,OH,POL
+31.0,Rasińska,O,POL
+44.0,Milewska,MB,POL
+65.0,Borowczak,OH,POL
+95.0,Jurczyk,MB,POL
+2.0,Dangubić,OH,SRB
+3.0,Osmajic,MB,SRB
+6.0,Kocic,MB,SRB
+7.0,Rankovic,S,SRB
+8.0,Mirković,S,SRB
+11.0,Kurtagić,MB,SRB
+12.0,Pušić,L,SRB
+13.0,Sajić,OH,SRB
+14.0,Aleksić,MB,SRB
+15.0,Uzelac,OH,SRB
+16.0,Jegdić,L,SRB
+17.0,Pakić,L,SRB
+18.0,Bošković,O,SRB
+19.0,Milenković,OH,SRB
+20.0,Zelenovic,O,SRB
+21.0,Malešević,MB,SRB
+23.0,Djordjevic,S,SRB
+24.0,Milojevic,MB,SRB
+25.0,Čajić,OH,SRB
+26.0,Kirov,MB,SRB
+27.0,Bukilić,O,SRB
+28.0,Miljevic,S,SRB
+29.0,Tomić,OH,SRB
+30.0,Perović,S,SRB
+31.0,Taubner,O,SRB
+32.0,Gocanin,L,SRB
+34.0,Tica,OH,SRB
+35.0,Mijatović,OH,SRB
+40.0,Ivanović,OH,SRB
+41.0,ČIKUC-DEANS Nat.,MB,SRB
+1.0,K.Kalyarat,L,THA
+2.0,P. Piyanut,L,THA
+3.0,G. Pornpun,S,THA
+4.0,S. Donphon,OH,THA
+5.0,N. Thatdao,MB,THA
+6.0,S. Warisara,OH,THA
+7.0,P. Natthawan,O,THA
+8.0,K. Waruni,MB,THA
+9.0,N. Jidapa,L,THA
+10.0,S.Kanchana,OH,THA
+11.0,J. Sasipapron,OH,THA
+12.0,B. Hattaya,MB,THA
+13.0,S. Kanokporn,S,THA
+14.0,K. Kuttika,OH,THA
+15.0,J. Natthanicha,S,THA
+16.0,K. Pimpichaya,O,THA
+17.0,M.Nannaphat,O,THA
+18.0,K.Ajcharaporn,OH,THA
+19.0,M. Chatchu-On,OH,THA
+20.0,W. Nattharika,MB,THA
+21.0,S. Thanacha,O,THA
+22.0,W.Nichakorn,L,THA
+23.0,K.Natthimar,O,THA
+24.0,K. Kanyarat,MB,THA
+26.0,H.Nutchanat,OH,THA
+27.0,P. Supawadee,OH,THA
+28.0,J. Sasithorn,MB,THA
+29.0,T. Wimonrat,MB,THA
+33.0,S. Natnicha,S,THA
+68.0,I. Wiranyupa,O,THA
+1.0,Örge,L,TUR
+2.0,Aköz,L,TUR
+3.0,Özbay,S,TUR
+4.0,Vargas,O,TUR
+5.0,Aykaç,L,TUR
+6.0,S. Sahin,OH,TUR
+7.0,Baladın,OH,TUR
+8.0,Jack-Kisal,MB,TUR
+9.0,Diken,OH,TUR
+10.0,Akyol,MB,TUR
+11.0,Cebecioğlu,OH,TUR
+12.0,E. Şahin,S,TUR
+13.0,Özdemir,S,TUR
+15.0,Deniz,MB,TUR
+16.0,Ozden,MB,TUR
+17.0,Caliskan,S,TUR
+18.0,Güneş,MB,TUR
+19.0,Kalaç,MB,TUR
+20.0,Yaprak,OH,TUR
+21.0,Çürük,O,TUR
+22.0,Aydın,OH,TUR
+23.0,Akarcesme,L,TUR
+25.0,Akbay,MB,TUR
+28.0,Buse,S,TUR
+29.0,Basyolcu,O,TUR
+41.0,Karutasu,O,TUR
+55.0,Bükmen,OH,TUR
+77.0,Yuzgenc,O,TUR
+88.0,Güveli,MB,TUR
+99.0,Karakurt,OH,TUR
+2.0,Poulter,S,USA
+3.0,A. Skinner,OH,USA
+5.0,Frantti,OH,USA
+6.0,Hentz,L,USA
+7.0,Rodriguez,L,USA
+8.0,Butler,MB,USA
+9.0,M. Skinner,O,USA
+10.0,J. Gray,S,USA
+11.0,Mims,O,USA
+13.0,Igiede,MB,USA
+14.0,Dodson,MB,USA
+15.0,Fairbanks,S,USA
+16.0,Rettke,MB,USA
+17.0,Fleck,L,USA
+18.0,O'Neal,MB,USA
+19.0,Lanier,OH,USA
+20.0,Cuttino,O,USA
+21.0,Jones-Perry,OH,USA
+22.0,Franklin,OH,USA
+23.0,Briseño,L,USA
+24.0,Babcock,O,USA
+25.0,Jimerson,MB,USA
+27.0,Powell,S,USA
+28.0,Lednicky,O,USA
+29.0,McCage,MB,USA
+30.0,Adams,OH,USA
+32.0,Kaahaaina-Torres,S,USA
+33.0,Eggleston,OH,USA
+34.0,Samedy,O,USA
+43.0,S. Gray,MB,USA
